@@ -52,8 +52,7 @@ def doLinkCheck(linkAddress):
                     if i <> 0:
                         ret = requests.get(cURL.strip())
                         if ret.status_code > 206:
-                                log('noaccess ' + cURL)
-                                #raise Exception('Not working properly.'
+                                log('Double check this for access!: ' + cURL)
 			
                 except:
                         log("Exception caught:  " + str(Exception.message))
