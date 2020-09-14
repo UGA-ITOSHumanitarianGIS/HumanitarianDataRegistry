@@ -1,5 +1,5 @@
 # HumanitarianDataRegistry
-https://beta.itos.uga.edu/ITOS.HumanitarianGISWS/
+API: https://beta.itos.uga.edu/ITOS.HumanitarianGISWS/ [Download the Excel GIS data resources registry:] (https://beta.itos.uga.edu/ITOS.HumanitarianGISWS/api/RegistryItems/ExcelFile)
 
 Curation for Humanitarian GIS and Visualizations made possible by USAID in coordination with United Nations Environment CMB and the IMWG GIS Sub Group.  
 
